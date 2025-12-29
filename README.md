@@ -1,2 +1,2 @@
-# htmlproject32521
-S14 MSWD HTML Project
+# HTMLProject
+Personal profile webpage built using HTML showcasing my bio, skills, and contact details.
